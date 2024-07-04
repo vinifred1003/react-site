@@ -5,6 +5,6 @@ export default props =>
   <footer className="footer">
     <span>
       Desenvolvido por
-      <strong> Vinicis Fedrigo Frederico</strong>
+      <strong> Vinícius Fedrigo Frederico</strong>
     </span>
   </footer>
